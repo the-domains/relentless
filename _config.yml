@@ -1,6 +1,6 @@
 name: Relentless
 favicon: null
-layout_spectrum: 0.4448837600648403
+layout_spectrum: 1
 typography_spectrum: 0.60641
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5263232982251793
+  brandStrength: 0.5
   lightness: 0.6222390923649073
   saturation: 0.09881578478962183
   rhythmicContrast: 0.5470789801329374
